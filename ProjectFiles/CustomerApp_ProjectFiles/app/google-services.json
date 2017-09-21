@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "121545087038",
+    "firebase_url": "https://customerappstart.firebaseio.com",
+    "project_id": "customerappstart",
+    "storage_bucket": "customerappstart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121545087038:android:e83bc606a2e02d6b",
+        "android_client_info": {
+          "package_name": "com.anurag.rebel.customerappstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121545087038-dneuimld5p5alinuidrmg79v9i12mlmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-05Y0tnOw1Ks8mKxpw3lKCC4ZFu4kRG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
